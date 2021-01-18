@@ -1,4 +1,4 @@
-import 'package:anime_game/uiscreen/gameplayone_screen.dart';
+import 'package:anime_game/uiscreen/gameplay1/gameplay_sc.dart';
 import 'package:flutter/material.dart';
 
 class RoutGenerator {
